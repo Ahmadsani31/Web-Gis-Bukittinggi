@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "fix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Panjang_": 314.04098999500002, "Kondisi": "Sedang", "Tipe_Salur": "Sekunder", "X_Awal": 100.37354017, "Y_Awal": -0.31339437123000002, "X_Akhir": 100.37614591800001, "Y_Akhir": -0.31230517662000001, "Posisi_1": "Kiri", "Kelurahan": "Sapiran", "Kecamatan": "Aur Birugo Tigo Baleh", "B": "1", "H": "0,7", "Ket": "Lumpur", "Penampang": "Trapesium", "Konstruksi": "Pasangan Batu", "Nama_Salur": "Jl. Komplek Kodim", "Jenis_Salu": null, "B2": 1.1, "No_Urut": 1, "Check": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 100.373540170253108, -0.31339437122576 ], [ 100.376145918313384, -0.31230517661642 ] ] ] } },
+{ "type": "Feature", "properties": { "Panjang_": 316.48355513199999, "Kondisi": "Sedang", "Tipe_Salur": "Sekunder", "X_Awal": 100.373591895, "Y_Awal": -0.31356726443, "X_Akhir": 100.37621844100001, "Y_Akhir": -0.31247088765999997, "Posisi_1": "Kanan", "Kelurahan": "Sapiran", "Kecamatan": "Aur Birugo Tigo Baleh", "B": "1", "H": "0,7", "Ket": "Lumpur", "Penampang": "Trapesium", "Konstruksi": "Pasangan Batu", "Nama_Salur": "Jl. Komplek Kodim", "Jenis_Salu": null, "B2": 1.1, "No_Urut": 2, "Check": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 100.373591894619537, -0.313567264428147 ], [ 100.376218441211435, -0.31247088766448 ] ] ] } }
+]
+}
