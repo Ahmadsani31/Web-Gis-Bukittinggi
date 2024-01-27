@@ -1,4 +1,6 @@
-# CodeIgniter 4 Application Starter
+# Website Database Drainase dan Berita Kota Bukittinggi
+# Leaflet.JS
+# Codeigniter 4.4.4
 
 ## What is CodeIgniter?
 
